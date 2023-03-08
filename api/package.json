@@ -1,0 +1,20 @@
+{
+  "name": "i_challenge_you_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon run app.js"
+  },
+  "author": "rydge software-kaydon stubbs",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "pg": "^8.10.0",
+    "postgres": "^3.3.3"
+  }
+}
